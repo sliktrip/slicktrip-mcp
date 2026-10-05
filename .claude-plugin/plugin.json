@@ -1,0 +1,10 @@
+{
+  "name": "slicktrip",
+  "version": "1.1.0",
+  "description": "Live flight, hotel and seat prices, cheapest-day calendars, and price-drop and seat alerts from SlickTrip.",
+  "author": { "name": "SlickTrip", "email": "support@slicktrip.com" },
+  "homepage": "https://slicktrip.com/connector",
+  "repository": "https://github.com/sliktrip/slicktrip-mcp",
+  "license": "MIT",
+  "keywords": ["travel", "flights", "hotels", "price alerts"]
+}

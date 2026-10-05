@@ -1,0 +1,7 @@
+{
+  "name": "slicktrip",
+  "owner": { "name": "SlickTrip", "email": "support@slicktrip.com" },
+  "plugins": [
+    { "name": "slicktrip", "source": "./", "description": "Live flight, hotel and seat prices with price-drop alerts." }
+  ]
+}

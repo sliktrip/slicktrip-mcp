@@ -1,0 +1,9 @@
+{
+  "name": "slicktrip",
+  "version": "1.1.0",
+  "description": "Live flight, hotel and seat prices, cheapest-day calendars, and price-drop and seat alerts.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "slicktrip": { "httpUrl": "https://mcp.slicktrip.com/mcp" }
+  }
+}
