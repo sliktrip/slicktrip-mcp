@@ -1,5 +1,5 @@
 {
   "mcpServers": {
-    "slicktrip": { "url": "https://mcp.slicktrip.com/mcp" }
+    "slicktrip": { "type": "http", "url": "https://mcp.slicktrip.com/mcp" }
   }
 }
