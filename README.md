@@ -17,7 +17,7 @@ SlickTrip is a hosted remote MCP server. This repository holds only the plugin a
 - "Hotels near the Colosseum under $250 a night, and watch the price."
 - "Alert me when any flight to Tokyo drops under $700 this spring."
 
-Searching works without an account. Alerts and saved lists use a free SlickTrip account, which you create when you connect. Booking completes on the seller's site.
+Alerts and saved lists use a free SlickTrip account (Google, Apple or email); some assistants ask you to sign in when you connect. Booking completes on the seller's site.
 
 ## Install
 
