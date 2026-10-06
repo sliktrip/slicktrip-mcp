@@ -25,7 +25,8 @@ Alerts and saved lists use a free SlickTrip account (Google, Apple or email); so
 | --- | --- |
 | Claude | Settings → Connectors → browse → **SlickTrip** (in the directory) |
 | ChatGPT | Apps → search **SlickTrip** |
-| Cursor | Marketplace → **SlickTrip**, or add `https://mcp.slicktrip.com/mcp` as a remote MCP server |
+| Cursor | [cursor.directory/plugins/slicktrip](https://cursor.directory/plugins/slicktrip) → **Add to Cursor**, or add `https://mcp.slicktrip.com/mcp` as a remote MCP server |
+| Cline | MCP Servers → Remote Servers → name `slicktrip`, URL `https://mcp.slicktrip.com/mcp` (see [llms-install.md](llms-install.md)) |
 | Claude Code | `/plugin marketplace add sliktrip/slicktrip-mcp` then `/plugin install slicktrip@slicktrip` |
 | Gemini CLI | `gemini extensions install https://github.com/sliktrip/slicktrip-mcp` |
 | VS Code / GitHub Copilot | MCP: Add Server → HTTP → `https://mcp.slicktrip.com/mcp` |
