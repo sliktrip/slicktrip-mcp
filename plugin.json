@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "slicktrip",
+  "version": "1.2.0",
+  "description": "Live flight, hotel and seat prices, cheapest-day calendars, and price-drop and seat alerts from SlickTrip, a hosted remote MCP server (OAuth 2.1, no API key).",
+  "author": {
+    "name": "Slicktrip LLC",
+    "url": "https://slicktrip.com",
+    "email": "support@slicktrip.com"
+  },
+  "homepage": "https://slicktrip.com/connector",
+  "repository": "https://github.com/sliktrip/slicktrip-mcp",
+  "license": "MIT",
+  "keywords": ["travel", "flights", "hotels", "airfare", "flight prices", "hotel prices", "price alerts", "seat alerts", "cheapest days"]
+}

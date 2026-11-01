@@ -12,7 +12,9 @@ SlickTrip is a hosted remote MCP server. This repository holds only the plugin a
 ## What you can ask
 
 - "Cheapest nonstop from New York to Lisbon in March, one week."
-- "Which days in November are cheapest to fly Chicago to Denver?"
+- "Which days in February are cheapest to fly Chicago to Denver?"
+- "Where can I fly cheaply from Boston for a week in March?"
+- "Anything new on my watches?"
 - "Is there an aisle seat left on AA100 on the 20th?"
 - "Hotels near the Colosseum under $250 a night, and watch the price."
 - "Alert me when any flight to Tokyo drops under $700 this spring."
@@ -36,7 +38,13 @@ Full setup guide: https://slicktrip.com/connector
 
 ## Tools
 
-Flights (`search_flights`, `search_return_flights`, `price_calendar`, `flight_lookup`, `route_airlines`, `booking_options`), hotels (`search_hotels`, `hotel_details`, `hotel_price_calendar`, `hotel_booking_options`), seats (`seat_availability`), alerts for fares, stays, seats and flexible bucket lists (`track_*`, `add_*_bucket_list`, `list_*`, `update_*`, `stop_*`), plus `find_places`, `recent_deals`, `share_link`, and account tools.
+Flights (`search_flights`, `search_return_flights`, `price_calendar`, `flight_lookup`, `route_airlines`, `booking_options`, `explore_destinations`), hotels (`search_hotels`, `hotel_details`, `hotel_price_calendar`, `hotel_booking_options`), seats (`seat_availability`), alerts for fares, stays, seats and flexible bucket lists (`track_*`, `add_*_bucket_list`, `list_*`, `update_*`, `stop_*`, `watch_details`, `check_my_watches`), plus `find_places`, `recent_deals`, `share_link`, and account tools. 38 tools in all.
+
+## Privacy and support
+
+- Privacy policy: https://slicktrip.com/policy
+- Terms of service: https://slicktrip.com/tos
+- Support: support@slicktrip.com, or https://slicktrip.com/connector
 
 ## Links
 
